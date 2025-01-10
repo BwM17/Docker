@@ -1,0 +1,15 @@
+services: 
+  jupyterlab:
+    container_name: jupyterlab 
+    image: quay.io/jupyter/base-notebook  
+    restart: unless-stopped
+    command: start-notebook.py --NotebookApp.token='ligma' 
+    ports: 
+      - "8889:8888"  
+    volumes:
+      - ./jupyter_data:/home/jovyan/work 
+
+
+
+
+
