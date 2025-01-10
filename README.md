@@ -19,7 +19,7 @@ A collection of docker compose files that I use for my homeserver and dev workfl
     <td>homar</td>
   </tr>
   <tr>
-    <td><reverseProxy</td>
+    <td>reverseProxy </td>
     <td>ngnix Proxy Manager, Maria DB</td>
   </tr>  
 </table>
