@@ -8,7 +8,7 @@ A collection of docker compose files that I use for my homeserver and dev workfl
 <table>
   <thead>
     <td><bold>Name</bold></td>
-    <td><bold>Name</bold></td>
+    <td><bold>Prgramm/s</bold></td>
   <thead>
   <tr>
     <td>portainer</td>
